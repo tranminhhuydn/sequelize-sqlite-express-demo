@@ -3,7 +3,7 @@
     "username": "root",
     "password": null,
     "database": "development",
-    "host": "my.dev.server",
+    "host": "app-f575f8b9-601e-4283-98bb-3c39352bb194.cleverapps.io",
     "dialect": "sqlite",
     "storage": "./sqlite-db/development.sqlite",
     "sync": { "force": false },
@@ -20,7 +20,7 @@
     "username": "root",
     "password": null,
     "database": "production",
-    "host": "my.prod.server",
+    "host": "app-f575f8b9-601e-4283-98bb-3c39352bb194.cleverapps.io",
     "dialect": "sqlite"
   }
 }
